@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## RVOS: Real-world Video Object Segmentation Dataset
+  
+RVOS is the first real-world video object segmentation dataset. It will be released on Oct. 17, 2017.
+  
+There will be two mainly contributions of this dataset: 
+  
+First, there is a lack of real-world data of video object segmentation. DAVIS is captured using expensive video camera. We use mobile phone to capture objects. The photographers are volunteer and not well trained. RVOS will fill the gap for real-world video object segmentation. 
+  
+Second, in E-commerce area, there needs to show object using mobile phone. The sellers capture the video of object which will be segmented in E-commerce mobile applications. Then the background can be changed or composited to a better one. We hope our dataset is useful for this purpose. 
+  
+It consists of two hundreds short videos, which focus on common object in family and office.
+  
+The dataset is challenging because the objects in these videos vary wildly in their categories. There are occlusions and sudden motion and other complexity. The videos are captured in portrait using mobile phones. About 35 frames are annotated which are selected uniformly in each video. Every frame is rotated and resized to 854*480, which is 480p resolution, same as the DAVIS dataset.
+  
+Raw videos can be downloaded via: 
+  
+Selected frames and annotations can be downloaded via: 
 
-You can use the [editor on GitHub](https://github.com/realvos/realvos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Some Samples:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=d8aBkJ10MnI
+" target="_blank"><img src="https://img.youtube.com/vi/d8aBkJ10MnI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=K8IKsPgdNJA
+" target="_blank"><img src="https://img.youtube.com/vi/K8IKsPgdNJA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mLlGPSYsL8Q
+" target="_blank"><img src="https://img.youtube.com/vi/mLlGPSYsL8Q/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LBOShbTMHtY
+" target="_blank"><img src="https://img.youtube.com/vi/LBOShbTMHtY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=C6bvSH66gPc
+" target="_blank"><img src="https://img.youtube.com/vi/C6bvSH66gPc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ecnm6xvbTE4
+" target="_blank"><img src="https://img.youtube.com/vi/Ecnm6xvbTE4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FdGfQhKliqs
+" target="_blank"><img src="https://img.youtube.com/vi/FdGfQhKliqs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=84qyzuq-LAA
+" target="_blank"><img src="https://img.youtube.com/vi/84qyzuq-LAA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/realvos/realvos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
