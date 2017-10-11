@@ -42,3 +42,7 @@ alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 " target="_blank"><img src="https://img.youtube.com/vi/84qyzuq-LAA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 
+All sequences are owned by the authors of `RVOS` and are licensed under Creative Commons Attributions 4.0 License.
+
+Contributors:
+Shan An；Si Liu；Zhibiao Huan；Guangfu Che；Zhaoqi Zhu.
