@@ -45,4 +45,4 @@ alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 All sequences are owned by the authors of `RVOS` and are licensed under Creative Commons Attributions 4.0 License.
 
 ### Contributors:
-to be added.
+to be added after CVPR 2018 paper review.
