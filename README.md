@@ -6,7 +6,7 @@ There will be two mainly contributions of this dataset:
   
 First, there is a lack of real-world data of video object segmentation. DAVIS is captured using expensive video camera. We use mobile phone to capture objects. The photographers are volunteer and not well trained. RVOS will fill the gap for real-world video object segmentation. 
   
-Second, in E-commerce area, there needs to show object using mobile phone. The sellers capture the video of object which will be segmented in E-commerce mobile applications. Then the background can be changed or composited to a better one. We hope our dataset is useful for this purpose. 
+Second, in E-commerce area, there needs to show products using mobile phone. The sellers capture the video of products which will be segmented in E-commerce mobile applications. Then the background can be changed or composited to a better one. We hope our dataset is useful for this purpose. 
   
 It consists of two hundreds short videos, which focus on common object in family and office.
   
@@ -45,4 +45,4 @@ alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 All sequences are owned by the authors of `RVOS` and are licensed under Creative Commons Attributions 4.0 License.
 
 ### Contributors:
-to be added after CVPR 2018 paper review.
+to be added after the paper review of CVPR 2018. 
