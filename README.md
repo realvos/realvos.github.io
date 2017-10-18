@@ -1,6 +1,6 @@
 ## RVOS: Real-world Video Object Segmentation Dataset
   
-RVOS is the first real-world video object segmentation dataset. It will be released on Oct. 17, 2017.
+RVOS is the first real-world video object segmentation dataset. It is released on Oct. 18, 2017.
   
 There will be two mainly contributions of this dataset: 
   
