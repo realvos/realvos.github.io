@@ -17,14 +17,14 @@ Raw videos can be downloaded via: <a href="https://drive.google.com/open?id=0B7m
 Selected frames and annotations can be downloaded via: <a href="https://drive.google.com/open?id=0B7mv0bFAqJGENnFYaHcySDJnYnc">Google Drive</a>  or  <a href="https://pan.baidu.com/s/1gf6FUUn">Baidu Drive</a>
 
 ### Some Samples:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=d8aBkJ10MnI
-" target="_blank"><img src="https://img.youtube.com/vi/d8aBkJ10MnI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kq280YXHlBU
+" target="_blank"><img src="https://img.youtube.com/vi/Kq280YXHlBU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=K8IKsPgdNJA
 " target="_blank"><img src="https://img.youtube.com/vi/K8IKsPgdNJA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mLlGPSYsL8Q
-" target="_blank"><img src="https://img.youtube.com/vi/mLlGPSYsL8Q/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tlOjUl_VASs
+" target="_blank"><img src="https://img.youtube.com/vi/tlOjUl_VASs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LBOShbTMHtY
 " target="_blank"><img src="https://img.youtube.com/vi/LBOShbTMHtY/0.jpg" 
