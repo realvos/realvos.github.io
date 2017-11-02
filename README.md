@@ -45,17 +45,15 @@ alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 All sequences are owned by the authors of `RVOS` and are licensed under Creative Commons Attributions 4.0 License.
 
 ### Folder structure:
-.
-├── README.md # readme of the dataset
-|
-├── JPEGImages # folders containing frames
-|   └── 480p
-├── Annotations # folders containing human annotations
-|   └── 480p
-└── ImageSets
-    ├── train.txt # list of all the sequences for training
-    ├── trainval.txt # all the sequences for training and validation    
-    └── val.txt # list of all the sequences for validation
+README.md # readme of the dataset
+JPEGImages # folders containing frames
+   └── 480p
+Annotations # folders containing human annotations
+   └── 480p
+ImageSets
+   ├── train.txt # list of all the sequences for training
+   ├── trainval.txt # all the sequences for training and validation    
+   └── val.txt # list of all the sequences for validation
 
 ### Contributors:
 to be added after the paper review of CVPR 2018. 
