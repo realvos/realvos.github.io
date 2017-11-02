@@ -52,8 +52,11 @@ JPEGImages # folders containing frames
 Annotations # folders containing human annotations
 
 ImageSets
+
 train.txt # list of all the sequences for training
-trainval.txt # all the sequences for training and validation    
+
+trainval.txt # all the sequences for training and validation   
+
 val.txt # list of all the sequences for validation
 
 ### Contributors:
