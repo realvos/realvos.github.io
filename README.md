@@ -12,9 +12,9 @@ It consists of two hundreds short videos, which focus on common object in family
   
 The dataset is challenging because the objects in these videos vary wildly in their categories. There are occlusions and sudden motion and other complexity. The videos are captured in portrait using mobile phones. About 35 frames are annotated which are selected uniformly in each video. Every frame is rotated and resized to 854*480, which is 480p resolution, same as the DAVIS dataset.
   
-Raw videos can be downloaded via: <a href="https://drive.google.com/open?id=0B7mv0bFAqJGEbGNTdjVBNW40QjQ">Google Drive</a>  or  <a href="https://pan.baidu.com/s/1c2NGOLE">Baidu Drive</a>    
+Raw videos can be downloaded via: <a href="https://drive.google.com/open?id=0B7mv0bFAqJGEbGNTdjVBNW40QjQ">Google Drive</a> 
   
-Selected frames and annotations can be downloaded via: <a href="https://drive.google.com/open?id=0B7mv0bFAqJGEN0lhQVp4YThpRzA">Google Drive</a>  or  <a href="https://pan.baidu.com/s/1ge82qOF">Baidu Drive</a>
+Selected frames and annotations can be downloaded via: <a href="https://drive.google.com/open?id=0B7mv0bFAqJGEN0lhQVp4YThpRzA">Google Drive</a>  
 
 ### Some Samples:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Kq280YXHlBU
