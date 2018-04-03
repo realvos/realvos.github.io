@@ -1,6 +1,6 @@
 ## RVOS: Real-world Video Object Segmentation Dataset
   
-RVOS is the first real-world video object segmentation dataset. Last updated on Jan. 28, 2018.
+RVOS is the first real-world video object segmentation dataset. Last updated on Mar. 28, 2018.
   
 There will be two mainly contributions of this dataset: 
   
@@ -60,4 +60,4 @@ trainval.txt # all the sequences for training and validation
 val.txt # list of all the sequences for validation
 
 ### Contributors:
-to be added after the paper review of IJCAI 2018. 
+to be added after the paper review of MM 2018. 
