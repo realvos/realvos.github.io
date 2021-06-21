@@ -59,5 +59,3 @@ trainval.txt # all the sequences for training and validation
 
 val.txt # list of all the sequences for validation
 
-### Contributors:
-to be added after the paper review of TMM. 
